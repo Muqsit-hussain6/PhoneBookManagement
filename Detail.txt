@@ -1,0 +1,22 @@
+Hello, This is our Data Structure Project.
+This project is about a phone book directory. 
+The directory will store the contact information of people, 
+including their names and phone number. 
+Users will be able to search for contacts and edit the 
+contact using the contact name and phone number. 
+The Data Structures used in the making of this project are ArrayList and Queue.
+
+----------------------------------------------------------------------------------------------
+
+*INSTRUCTIONS TO RUN CODE:
+1.Open CMD.
+2.Go to that particular folder where this project is saved.
+3. To Compile use "javac Project.java".
+4.To run use java Project.
+
+Credits 
+Muqsit Hussain(023-21-0097)
+Haseeb Sheikh(023-21-0102)	
+Dawood Yousuf(023-21-0100)
+
+
